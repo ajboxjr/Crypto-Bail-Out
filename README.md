@@ -1,5 +1,9 @@
-# Crypto Profit
-Simple Bittrex Profit Analyzer. Input your desired buy price and profit! Runs in Chrome Browser
+# Crypto Bail Out
+Simple Bittrex Profit Calculator. Indicate where your order will start to profit! Runs in Chrome Browser.
+
+## Use Case
+- Exiting a trade with 0% losses.
+- Determining likelyhood of stock reaching desired profit margin
 
 <img src="https://github.com/ajboxjr/Crypto-Bail-Out/blob/master/Price%20Projection.png">
 
@@ -25,4 +29,6 @@ Starting the server
 * Default Port is 8000
 
 
-Bitcoin Address <img alt="Bitcoin Address" src="http://pngimg.com/uploads/bitcoin/bitcoin_PNG48.png" width="60"> 3DYHdbVBXxMC8uXanMNTWNQMkd32sXNjUc
+Bitcoin Address 
+
+<img alt="Bitcoin Address" src="http://pngimg.com/uploads/bitcoin/bitcoin_PNG48.png" width="60"> 3DYHdbVBXxMC8uXanMNTWNQMkd32sXNjUc
