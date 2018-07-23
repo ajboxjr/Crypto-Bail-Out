@@ -5,7 +5,7 @@ Simple Bittrex Profit Analyzer. Input your desired buy price and profit! Runs in
 
 ## Preqrequisites
 - python (3.5 >=)
-- [Javascript Injector 1.0.2](https://chrome.google.com/webstore/detail/javascript-injector/djnjegpffahmfpjdlkciiecmeaebghlk?hl=en | width=100)
+- [Javascript Injector 1.0.2](https://chrome.google.com/webstore/detail/javascript-injector/djnjegpffahmfpjdlkciiecmeaebghlk?hl=en)
 
 ## Setup
 
